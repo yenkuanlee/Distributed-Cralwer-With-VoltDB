@@ -1,0 +1,29 @@
+nohup: ignoring input
+0
+
+delete from idlike;
+(Returned 0 rows in 0.01s)
+7648
+
+delete from idlike;
+(Returned 7648 rows in 0.01s)
+7649
+
+delete from idlike;
+(Returned 7649 rows in 0.01s)
+7650
+
+delete from idlike;
+(Returned 7650 rows in 0.01s)
+7654
+
+delete from idlike;
+(Returned 7654 rows in 0.01s)
+7650
+
+delete from idlike;
+(Returned 7650 rows in 0.01s)
+7645
+
+delete from idlike;
+(Returned 7645 rows in 0.01s)
